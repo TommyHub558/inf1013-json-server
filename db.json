@@ -11,4 +11,20 @@
   "profile": {
     "name": "typicode"
   }
+  "demandes": [
+    {
+      "id": 0,
+      "etat": 1,
+      "description": "C'est à propros de la livraison de produit médicaments. Est-ce que tous vos produits sont livrables?",
+      "reponse": "Oui, la livraison est possible pour l'ensemble des produits que nous tenons."
+
+    },
+    {
+      "id": 1,
+      "etat": 2,
+      "description": "Une demande urgente",
+      "reponse": "Je voulais savoir si ..."
+
+    }
+  ],
 }
