@@ -16,7 +16,6 @@
     { "ID": 11, "ID_PHARMACIEN": 4, "ID_MEDIC": 11 },
     { "ID": 14, "ID_PHARMACIEN": 4, "ID_MEDIC": 14 },
     { "ID": 15, "ID_PHARMACIEN": 1, "ID_MEDIC": 15 }
-
   ],
   "exemplaires": [
     { "ID": 0, "ID_MEDIC": 0, "ID_PHARMACIE": 0, "dateExpiration": "2017-08-05T15:19:04.011Z" },
@@ -32,7 +31,6 @@
     { "ID": 5, "infosConnexion": { "courriel": "jenson.clark@hotmail.ca", "motPasse": "jenson.clark" }, "infosPersonnelle": { "nom": "clark", "prenom": "jenson", "dateNaissance": "1960-11-18T05:00:00.000Z", "genre": "femme", "image": "../../assets/icons/female.png" }, "adresse": { "numeroCivil": 1222, "nomRue": "Incarnation", "nomVille": "Ste-Josphef", "codePostale": "G8Y 1Y2", "nomProvince": "QC", "nomPay": "CA" }, "typeUser": 1 },
     { "ID": 1, "infosConnexion": { "courriel": "miller.brown@hotmail.ca", "motPasse": "miller.brown" }, "infosPersonnelle": { "nom": "brown", "prenom": "miller", "dateNaissance": "1997-06-07T04:00:00.000Z", "genre": "homme", "image": "../../assets/icons/male.png" }, "adresse": { "numeroCivil": 454, "nomRue": "Rue Goerge", "nomVille": "Sainte-Agathe", "codePostale": "G8Z 3R8", "nomProvince": "QC", "nomPay": "CA" }, "typeUser": 2, "idPharmacie": 0 },
     { "ID": 4, "infosConnexion": { "courriel": "georgia.andersson@hotmail.ca", "motPasse": "georgia.andersson" }, "infosPersonnelle": { "nom": "andersson", "prenom": "georgia", "dateNaissance": "1957-03-19T05:00:00.000Z", "genre": "femme", "image": "../../assets/icons/female.png" }, "adresse": { "numeroCivil": 1650, "nomRue": "Royale", "nomVille": "Québec", "codePostale": "G9A 4K3", "nomProvince": "QC", "nomPay": "CA" }, "typeUser": 2, "idPharmacie": 3 }
-
   ],
   "pharmacies": [
     { "ID": 0, "nom": "brown fils", "compagnie": "familiprix", "adresse": { "numeroCivil": 501, "nomRue": "Avenue du Mont-Royal E", "nomVille": "Montréal", "codePostale": "H2J 1W5", "nomProvince": "QC", "nomPay": "CA" }, "numeroTelephone": "324-777-3434", "heureOuverture": [ { "jour": 6, "periode": { "debut": { "hours": 9, "minutes": 0 }, "fin": { "hours": 23, "minutes": 30 } } }, { "jour": 5, "periode": { "debut": { "hours": 8, "minutes": 30 }, "fin": { "hours": 18, "minutes": 0 } } }, { "jour": 4, "periode": { "debut": { "hours": 9, "minutes": 30 }, "fin": { "hours": 18, "minutes": 0 } } }, { "jour": 3, "periode": { "debut": { "hours": 11, "minutes": 0 }, "fin": { "hours": 16, "minutes": 30 } } }, { "jour": 2, "periode": { "debut": { "hours": 11, "minutes": 0 }, "fin": { "hours": 16, "minutes": 30 }}}, { "jour": 1, "periode": { "debut": { "hours": 9, "minutes": 30 }, "fin": { "hours": 17, "minutes": 0 } } } ], "coteAvis": 5, "image": "assets/img/pharmacie-familiprix-5.png" },
@@ -42,9 +40,6 @@
     { "ID": 0, "numero": 73031572, "etat": 1, "sujet": "Une demande urgente", "description": "Je voulais savoir si ....", "reponse": "", "idClient": 0, "idPharmacien": 1, "idProduit": -1 },
     { "ID": 19, "numero": 76670628, "etat": 1, "sujet": "Une demande urgente", "description": "Je voulais savoir si ....", "reponse": "", "idClient": 5, "idPharmacien": 1, "idProduit": -1 },
     { "ID": 20, "numero": 84448852, "etat": 1, "sujet": "Une demande urgente", "description": "Je voulais savoir si ....", "reponse": "", "idClient": 5, "idPharmacien": 4, "idProduit": -1 }
-  ],
-  "adresse": [
-
   ],
   "ingredientss": [
     "acetaminophen", "paracétamol", "ibuprofen", "teaspoonful", "guaifenesin", "menthol"
