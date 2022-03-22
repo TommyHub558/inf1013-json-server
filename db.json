@@ -26,11 +26,25 @@
   ],
   "pharmacies": [],
   "demandes": [],
-  "ingredientss": [
-    "acetaminophen", "paracétamol", "ibuprofen", "teaspoonful", "guaifenesin", "menthol"
+  "ingredients": [
+    "acetaminophen",
+    "paracétamol",
+    "ibuprofen",
+    "teaspoonful",
+    "guaifenesin",
+    "menthol",
+    "methocarbanol"
   ],
-  "Posologies": [
-    "Enfants de 12 ans et adultes prenez 2 capsules au 6 heures", "Enfants de 12 ans et adultes prenez 2 capsules au 4 heures",
-    "Enfant de moins de 12 ans", "1 capsule au 8 heures", "1 capsule au 6 heures", "Ne pas dépasser plus de 12 capsule au 24 heures"
+  "posologies": [
+    "Enfants de 12 ans et adultes prenez 2 capsules au 8 heures",
+    "Enfants de 12 ans et adultes prenez 2 capsules au 6 heures",
+    "Enfants de 12 ans et adultes prenez 2 capsules au 4 heures",
+    "Enfant de moins de 12 ans", "1 capsule au 8 heures",
+    "Enfant de moins de 12 ans, 1 capsule au 6 heures",
+    "Ne pas dépasser plus de 12 capsule au 24 heures",
+    "Ne pas dépasser plus de 8 capsule au 24 heures",
+    "Ne pas dépasser plus de 6 capsule au 24 heures",
+    "Enfants de 12 ans et adultes prenez 2 cuillerées de 5 mil au 4 heures",
+    "Enfant de moins de 12 ans, 1 cuillerées au 6 heures"
   ]
 }
