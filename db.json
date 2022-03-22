@@ -1,7 +1,4 @@
 {
-  "medicaments": [],
-  "enregistrements": [],
-  "exemplaires": [],
   "utilisateurs": [
     { "ID": 0, "infosConnexion": { "courriel": "martin.smith@hotmail.ca", "motPasse": "martin.smith" }, "infosPersonnelle": { "nom": "smith", "prenom": "martin", "dateNaissance": "1992-12-05T05:00:00.000Z", "genre": "homme", "image": "../../assets/icons/male.png" }, "adresse": { "numeroCivil": 123, "nomRue": "Adèle", "nomVille": "Trois-Rivières", "codePostale": "G8Z 1Z2", "nomProvince": "QC", "nomPay": "CA" }, "typeUser": 1 },
     { "ID": 5, "infosConnexion": { "courriel": "jenson.clark@hotmail.ca", "motPasse": "jenson.clark" }, "infosPersonnelle": { "nom": "clark", "prenom": "jenson", "dateNaissance": "1970-01-08T05:00:00.000Z", "genre": "femme", "image": "../../assets/icons/female.png" }, "adresse": { "numeroCivil": 1222, "nomRue": "Incarnation", "nomVille": "Ste-Josphef", "codePostale": "G8Y 1Y2", "nomProvince": "QC", "nomPay": "CA" }, "typeUser": 1 },
@@ -24,8 +21,6 @@
     { "ID": 8, "infosConnexion": { "courriel": "rogers.scott@hotmail.ca", "motPasse": "rogers.scott" }, "infosPersonnelle": { "nom": "scott", "prenom": "rogers", "dateNaissance": "1956-07-16T04:00:00.000Z", "genre": "homme", "image": "../../assets/icons/male.png" }, "adresse": { "numeroCivil": 1065, "nomRue": "St-Jovite", "nomVille": "Mont-Tremblant", "codePostale": "J8E3J9", "nomProvince": "QC", "nomPay": "CA" }, "typeUser": 2, "idPharmacie": 4 },
     { "ID": 12, "infosConnexion": { "courriel": "henry.jackson@hotmail.ca", "motPasse": "henry.jackson" }, "infosPersonnelle": { "nom": "jackson", "prenom": "henry", "dateNaissance": "1989-10-04T04:00:00.000Z", "genre": "homme", "image": "../../assets/icons/male.png" }, "adresse": { "numeroCivil": 123, "nomRue": "Notre-Dame E", "nomVille": "Ste-Agathe", "codePostale": "H3J 2f5", "nomProvince": "QC", "nomPay": "CA" }, "typeUser": 2, "idPharmacie": 5 }
   ],
-  "pharmacies": [],
-  "demandes": [],
   "ingredients": [
     "acetaminophen",
     "paracétamol",
